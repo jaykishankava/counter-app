@@ -1,0 +1,29 @@
+button{
+    background-color:rgb(0, 0, 0);
+    padding: 15px 35px; 
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+    border: solid  black;
+    box-shadow: 0 4px 8px 0 rgba(214, 214, 214, 0.2), 0 6px 20px 0 rgba(199, 199, 199, 0.19);
+}
+
+h1{
+    color:rgb(86, 255, 137);
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+}
+
+body{
+    background-image:url(https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+}
+
+.bg{
+    margin: 150px 50px;
+}
